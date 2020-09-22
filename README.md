@@ -1,6 +1,6 @@
 # HackRice X Retinopathy App
 
-A mobile app to predict diabetic retinopathy from eye fundus images using computer vision.
+A mobile app to predict diabetic retinopathy from eye fundus images using computer vision. This was created by Ishaan Javali, Shrey Joshi, Kanishk Garg, and Madhu Sharma
 
 See our devpost here: https://devpost.com/software/diabetic-retinopathy-app
 
